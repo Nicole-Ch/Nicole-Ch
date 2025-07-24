@@ -13,7 +13,7 @@
 - <b>Digital Certificates</b>
   - [AI Certification](https://www.credly.com/badges/8e0745bc-6851-490f-bbee-b19abe91cece/public_url)
   - [Vulnerability Management](https://www.credly.com/badges/d79065a7-05ec-47b1-b9ee-085c4744737b/public_url)
-  - [GRC](https://www.credly.com/badges/9e438839-e572-4c49-80ee-a3cef7d50e4e/public_url)
+  - [Governance, Risk, Compliance, and Data Privacy](https://www.credly.com/badges/9e438839-e572-4c49-80ee-a3cef7d50e4e/public_url)
   
 
 
